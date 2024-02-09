@@ -7,8 +7,7 @@
 
 - I'm interested in continually learning and improving my skills. 
 - 📫 How to reach me: www.linkedin.com/in/samir-salazar-92a6712a0
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 
 <!---
 ArribaMichoacan/ArribaMichoacan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
